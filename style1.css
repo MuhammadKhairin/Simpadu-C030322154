@@ -1,0 +1,10 @@
+body {
+  background-color: red;
+}
+
+input {
+  display: flex;
+  border-radius: 10px;
+  width: 250px;
+  height: 10px;
+}
